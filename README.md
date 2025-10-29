@@ -27,6 +27,7 @@ Tools and platforms using AI, Large Language Models, and autonomous agents for f
 * [AnandChowdhary/priced-in](https://github.com/AnandChowdhary/priced-in) - An autonomous AI stock trading agent that runs on GitHub Actions.
 * [wshobson/maverick-mcp](https://github.com/wshobson/maverick-mcp) - A personal stock analysis MCP server for professional-grade financial data analysis, designed to integrate with Claude Desktop.
 * [Capital Companion](https://capitalcompanion.ai/) - An AI-powered trading assistant platform for technical analysis, trend predictions, and market insights.
+* [AI-Trader](https://github.com/HKUDS/AI-Trader)) - AI-Trader enables five distinct AI models, each employing unique investment strategies, to compete autonomously in the same market and determine which can generate the highest profits in NASDAQ 100 trading.
 
 ## Trading Platforms & Bots
 
