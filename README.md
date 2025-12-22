@@ -43,6 +43,7 @@ Tools for tracking investments, managing personal finances, or handling business
 
 * [Wealthfolio](https://github.com/afadil/wealthfolio) - A beautiful, private, and secure desktop application for investment tracking.
 * [Maybe](https://maybefinance.com/) - A platform for businesses to connect their QuickBooks account and get financial insights in plain English (formerly a personal finance tool).
+* [Sure]((https://github.com/we-promise/sure) - Sure is an open-source, community-maintained personal finance application that serves as a self-hostable fork of the discontinued Maybe Finance project.
 
 ## Data APIs
 
