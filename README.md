@@ -50,6 +50,7 @@ Tools for tracking investments, managing personal finances, or handling business
 APIs focused on providing programmable access to financial data for developers and AI agents.
 
 * [Financial Datasets](https://www.financialdatasets.ai/) - A financial data API provider built specifically for AI agents and LLMs, offering statements, SEC filings, news, and more.
+* [KeepRule API](https://keeprule.com) - A free API serving curated investment principles and quotes from Warren Buffett, Charlie Munger, and other legendary investors, organized by categories and real-world scenarios.
 
 ## Quantitative Libraries
 
