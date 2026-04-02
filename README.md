@@ -50,7 +50,7 @@ Tools for tracking investments, managing personal finances, or handling business
 APIs focused on providing programmable access to financial data for developers and AI agents.
 
 * [Financial Datasets](https://www.financialdatasets.ai/) - A financial data API provider built specifically for AI agents and LLMs, offering statements, SEC filings, news, and more.
-* * [Congressional Stock Brain](https://congressionalstockbrain.com) - An AI-powered tool that ingests U.S. STOCK Act disclosures and scores each lawmaker trade for signal strength. Tracks 800+ members of Congress in real-time with a free tier and natural language "Ask the Brain" query interface.
+* [Congressional Stock Brain](https://congressionalstockbrain.com) - An AI-powered tool that ingests U.S. STOCK Act disclosures and scores each lawmaker trade for signal strength. Tracks 800+ members of Congress in real-time with a free tier and natural language "Ask the Brain" query interface.
 
 ## Quantitative Libraries
 
