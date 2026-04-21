@@ -9,6 +9,7 @@ A curated list of awesome open-source projects, platforms, APIs, and resources f
 
 - [AI & LLM Agents](#ai--llm-agents)
 - [Trading Platforms & Bots](#trading-platforms--bots)
+- [Investment Research & Analytics](#investment-research--analytics)
 - [Portfolio & Business Management](#portfolio--business-management)
 - [Data APIs](#data-apis)
 - [Quantitative Libraries](#quantitative-libraries)
@@ -37,6 +38,13 @@ Open-source platforms and bots for building, backtesting, and deploying algorith
 
 * [freqtrade](https://github.com/freqtrade/freqtrade) - A free, open-source crypto trading bot written in Python. It supports all major exchanges and is controllable via Telegram or a web UI.
 * [NautilusTrader](https://nautilustrader.io/) - A high-performance, open-source platform for quantitative and algorithmic trading, built for speed and reliability.
+
+## Investment Research & Analytics
+
+Open-source platforms and terminals for financial data analysis, visualization, and investment research.
+
+* [OpenBB](https://github.com/OpenBB-finance/OpenBB) - A leading open-source investment research platform that provides access to financial data from a wide variety of sources.
+* [FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - An open-source alternative to the Bloomberg Terminal, offering tools for real-time market data visualization and research.
 
 ## Portfolio & Business Management
 
