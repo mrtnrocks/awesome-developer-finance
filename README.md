@@ -11,6 +11,7 @@ A curated list of awesome open-source projects, platforms, APIs, and resources f
 - [Trading Platforms & Bots](#trading-platforms--bots)
 - [Investment Research & Analytics](#investment-research--analytics)
 - [Portfolio & Business Management](#portfolio--business-management)
+- [Banking & Payments](#banking--payments)
 - [Data APIs](#data-apis)
 - [Quantitative Libraries](#quantitative-libraries)
 - [Contributing](#contributing)
@@ -31,6 +32,7 @@ Tools and platforms using AI, Large Language Models, and autonomous agents for f
 * [AI-Trader](https://github.com/HKUDS/AI-Trader) - AI-Trader enables five distinct AI models, each employing unique investment strategies, to compete autonomously in the same market and determine which can generate the highest profits in NASDAQ 100 trading.
 * [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - An AI-powered multi-agent finance workspace that turns natural language requests into executable trading strategies and research insights.
 * [AI-Hedge-Fund](https://github.com/virattt/ai-hedge-fund) - An AI-powered hedge fund team where multiple agents (Buffett, Graham, etc.) collaborate to make trading decisions.
+* [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - An open-source AI trading operating system that automates workflows with multi-agent orchestration and low-latency execution.
 
 ## Trading Platforms & Bots
 
@@ -53,6 +55,12 @@ Tools for tracking investments, managing personal finances, or handling business
 * [Wealthfolio](https://github.com/afadil/wealthfolio) - A beautiful, private, and secure desktop application for investment tracking.
 * [Maybe](https://maybefinance.com/) - A platform for businesses to connect their QuickBooks account and get financial insights in plain English (formerly a personal finance tool).
 * [Sure]((https://github.com/we-promise/sure) - Sure is an open-source, community-maintained personal finance application that serves as a self-hostable fork of the discontinued Maybe Finance project.
+
+## Banking & Payments
+
+APIs and platforms for managing bank accounts, processing payments, and moving money programmatically.
+
+* [Mercury API](https://mercury.com/api) - A robust API for startups to programmatically manage bank accounts, automate payments, and access transaction data.
 
 ## Data APIs
 
