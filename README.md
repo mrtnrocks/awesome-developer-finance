@@ -66,6 +66,7 @@ APIs and platforms for managing bank accounts, processing payments, and moving m
 
 APIs focused on providing programmable access to financial data for developers and AI agents.
 
+* [Crypto Feeds API](https://api-catalog-three.vercel.app/tools/crypto-prices) - A free real-time cryptocurrency price API supporting 500+ tokens with no API key required for basic queries.
 * [Financial Datasets](https://www.financialdatasets.ai/) - A financial data API provider built specifically for AI agents and LLMs, offering statements, SEC filings, news, and more.
 
 ## Quantitative Libraries
