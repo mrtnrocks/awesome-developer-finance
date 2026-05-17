@@ -33,6 +33,7 @@ Tools and platforms using AI, Large Language Models, and autonomous agents for f
 * [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - An AI-powered multi-agent finance workspace that turns natural language requests into executable trading strategies and research insights.
 * [AI-Hedge-Fund](https://github.com/virattt/ai-hedge-fund) - An AI-powered hedge fund team where multiple agents (Buffett, Graham, etc.) collaborate to make trading decisions.
 * [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - An open-source AI trading operating system that automates workflows with multi-agent orchestration and low-latency execution.
+* [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) - An open-source foundation model for financial candlesticks (K-lines) and quantitative finance tasks.
 
 ## Trading Platforms & Bots
 
