@@ -35,6 +35,8 @@ Tools and platforms using AI, Large Language Models, and autonomous agents for f
 * [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - An open-source AI trading operating system that automates workflows with multi-agent orchestration and low-latency execution.
 * [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) - An open-source foundation model for financial candlesticks (K-lines) and quantitative finance tasks.
 
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - On-chain trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments — prevents impersonation in agentic finance workflows. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ## Trading Platforms & Bots
 
 Open-source platforms and bots for building, backtesting, and deploying algorithmic trading strategies.
