@@ -34,7 +34,8 @@ Tools and platforms using AI, Large Language Models, and autonomous agents for f
 * [AI-Hedge-Fund](https://github.com/virattt/ai-hedge-fund) - An AI-powered hedge fund team where multiple agents (Buffett, Graham, etc.) collaborate to make trading decisions.
 * [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - An open-source AI trading operating system that automates workflows with multi-agent orchestration and low-latency execution.
 * [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) - An open-source foundation model for financial candlesticks (K-lines) and quantitative finance tasks.
-
+* [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) - An AI-era value investing research framework built for Claude Code and Codex that utilizes multi-agent parallel research based on the methodologies of four investment masters.
+  
 ## Trading Platforms & Bots
 
 Open-source platforms and bots for building, backtesting, and deploying algorithmic trading strategies.
