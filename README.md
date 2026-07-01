@@ -69,6 +69,7 @@ APIs and platforms for managing bank accounts, processing payments, and moving m
 APIs focused on providing programmable access to financial data for developers and AI agents.
 
 * [Adanos Market Sentiment](https://adanos.org/) - API-first stock sentiment data from Reddit, X / FinTwit, News, and Polymarket for developer tools, dashboards, and AI agents.
+* [FilingFirehose](https://filingfirehose.com/) - SEC EDGAR JSON API with body-text-classified 8-Ks (flags buried Item 1.05/5.02 events), activist-tagged Schedule 13D/G, S-3/424B5 ATM detection, and free per-ticker forensic risk score. REST + MCP server + Python SDK + ChatGPT GPT + GitHub Action.
 * [Financial Datasets](https://www.financialdatasets.ai/) - A financial data API provider built specifically for AI agents and LLMs, offering statements, SEC filings, news, and more.
 * [FXMacroData](https://fxmacrodata.com/) - Macroeconomic indicators, central bank policy rates, FX spot rates, CFTC COT positioning data, and economic release calendars for 18+ currencies via REST API and remote MCP server (`https://fxmacrodata.com/mcp`).
 
