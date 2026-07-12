@@ -42,6 +42,7 @@ Open-source platforms and bots for building, backtesting, and deploying algorith
 
 * [freqtrade](https://github.com/freqtrade/freqtrade) - A free, open-source crypto trading bot written in Python. It supports all major exchanges and is controllable via Telegram or a web UI.
 * [NautilusTrader](https://nautilustrader.io/) - A high-performance, open-source platform for quantitative and algorithmic trading, built for speed and reliability.
+* [TurbineFi](https://turbinefi.com) - Build, backtest, and deploy automated trading strategies for prediction markets including Kalshi and Polymarket.
 
 ## Investment Research & Analytics
 
