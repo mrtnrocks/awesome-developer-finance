@@ -71,6 +71,7 @@ APIs focused on providing programmable access to financial data for developers a
 * [Adanos Market Sentiment](https://adanos.org/) - API-first stock sentiment data from Reddit, X / FinTwit, News, and Polymarket for developer tools, dashboards, and AI agents.
 * [Financial Datasets](https://www.financialdatasets.ai/) - A financial data API provider built specifically for AI agents and LLMs, offering statements, SEC filings, news, and more.
 * [FXMacroData](https://fxmacrodata.com/) - Macroeconomic indicators, central bank policy rates, FX spot rates, CFTC COT positioning data, and economic release calendars for 18+ currencies via REST API and remote MCP server (`https://fxmacrodata.com/mcp`).
+* [AgentServices](https://agentservices.to) - Production API platform for AI agents: 54 services, 97 endpoints, 41 x402-paid. Crypto prices, technical indicators, DeFi yields, on-chain analytics, whale tracking, and market data. $0.01–$0.05 USDC per call on Base via x402. 37 MCP tools, streamable-http transport. ([GitHub](https://github.com/vbkotecha/aiservices-api) | [MCP Registry](https://registry.modelcontextprotocol.io/#/server/to.agentservices%2Fagentservices))
 
 ## Quantitative Libraries
 
