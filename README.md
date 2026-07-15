@@ -35,6 +35,7 @@ Tools and platforms using AI, Large Language Models, and autonomous agents for f
 * [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - An open-source AI trading operating system that automates workflows with multi-agent orchestration and low-latency execution.
 * [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) - An open-source foundation model for financial candlesticks (K-lines) and quantitative finance tasks.
 * [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) - An AI-era value investing research framework built for Claude Code and Codex that utilizes multi-agent parallel research based on the methodologies of four investment masters.
+* [hbhqq9/bde-score](https://github.com/hbhqq9/bde-score) - EU AI Act Art.50 compliant MCP server for multi-market stock analysis with quantitative scoring (BUY/HOLD/SELL signals) across US, HK, and CN A-shares.
   
 ## Trading Platforms & Bots
 
