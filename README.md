@@ -63,6 +63,7 @@ Tools for tracking investments, managing personal finances, or handling business
 APIs and platforms for managing bank accounts, processing payments, and moving money programmatically.
 
 * [Mercury API](https://mercury.com/api) - A robust API for startups to programmatically manage bank accounts, automate payments, and access transaction data.
+* [paas.build](https://paas.build/) - Instant merchant account for AI-era builders from UniPaaS, an FCA-authorised UK Payment Institution (No. 929994); individuals and sole traders in the UK/EU/US go live the same day via progressive KYB, with agent-native onboarding via an MCP server (`npx @paasbuild/mcp` or `https://paas.build/mcp`).
 
 ## Data APIs
 
