@@ -76,6 +76,7 @@ APIs focused on providing programmable access to financial data for developers a
 
 Code libraries and frameworks for quantitative analysis, data manipulation, and strategy simulation.
 
+* [ml-quant-trading](https://github.com/initial-d/ml-quant-trading) - A PyTorch research stack for multi-factor modeling, ML baselines, portfolio optimization, and vectorized backtesting.
 * [shashankvemuri/Finance](https://github.com/shashankvemuri/Finance) - A collection of 150+ Python programs for quantitative finance, including data gathering, analysis, and strategy simulation.
 
 ---
