@@ -19,6 +19,7 @@ A curated list of awesome open-source projects, platforms, APIs, and resources f
 ---
 
 ## AI & LLM Agents
+* [Pineify](https://pineify.app/) - AI-assisted finance and trading platform with Pine Script, MQL5, and cTrader coding agents, financial research tools, and a hosted read-only interface for agent workflows.
 
 Tools and platforms using AI, Large Language Models, and autonomous agents for financial analysis, research, and trading.
 
