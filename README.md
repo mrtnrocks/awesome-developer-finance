@@ -71,6 +71,7 @@ APIs focused on providing programmable access to financial data for developers a
 * [Adanos Market Sentiment](https://adanos.org/) - API-first stock sentiment data from Reddit, X / FinTwit, News, and Polymarket for developer tools, dashboards, and AI agents.
 * [Financial Datasets](https://www.financialdatasets.ai/) - A financial data API provider built specifically for AI agents and LLMs, offering statements, SEC filings, news, and more.
 * [FXMacroData](https://fxmacrodata.com/) - Macroeconomic indicators, central bank policy rates, FX spot rates, CFTC COT positioning data, and economic release calendars for 18+ currencies via REST API and remote MCP server (`https://fxmacrodata.com/mcp`).
+* [Congress Trading Pipeline](https://github.com/seralifatih/congress-trading-pipeline) - US House and Senate congressional stock trading disclosures (STOCK Act PTRs) as clean, deduplicated JSON, parsed directly from official government sources via Apify. 
 
 ## Quantitative Libraries
 
