@@ -34,14 +34,16 @@ Tools and platforms using AI, Large Language Models, and autonomous agents for f
 * [AI-Hedge-Fund](https://github.com/virattt/ai-hedge-fund) - An AI-powered hedge fund team where multiple agents (Buffett, Graham, etc.) collaborate to make trading decisions.
 * [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - An open-source AI trading operating system that automates workflows with multi-agent orchestration and low-latency execution.
 * [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) - An open-source foundation model for financial candlesticks (K-lines) and quantitative finance tasks.
+* [google-research/timesfm](https://github.com/google-research/timesfm) - A pretrained time-series foundation model developed by Google Research for zero-shot time-series forecasting and financial temporal data modeling.
 * [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) - An AI-era value investing research framework built for Claude Code and Codex that utilizes multi-agent parallel research based on the methodologies of four investment masters.
-  
+
 ## Trading Platforms & Bots
 
 Open-source platforms and bots for building, backtesting, and deploying algorithmic trading strategies.
 
 * [freqtrade](https://github.com/freqtrade/freqtrade) - A free, open-source crypto trading bot written in Python. It supports all major exchanges and is controllable via Telegram or a web UI.
 * [NautilusTrader](https://nautilustrader.io/) - A high-performance, open-source platform for quantitative and algorithmic trading, built for speed and reliability.
+* [sngyai/Sequoia-X](https://github.com/sngyai/Sequoia-X) - A quantitative trading and strategy platform featuring stock screening, backtesting, and automated webhook alerts.
 
 ## Investment Research & Analytics
 
@@ -56,7 +58,7 @@ Tools for tracking investments, managing personal finances, or handling business
 
 * [Wealthfolio](https://github.com/afadil/wealthfolio) - A beautiful, private, and secure desktop application for investment tracking.
 * [Maybe](https://maybefinance.com/) - A platform for businesses to connect their QuickBooks account and get financial insights in plain English (formerly a personal finance tool).
-* [Sure]((https://github.com/we-promise/sure) - Sure is an open-source, community-maintained personal finance application that serves as a self-hostable fork of the discontinued Maybe Finance project.
+* [Sure](https://github.com/we-promise/sure) - Sure is an open-source, community-maintained personal finance application that serves as a self-hostable fork of the discontinued Maybe Finance project.
 
 ## Banking & Payments
 
@@ -84,7 +86,7 @@ Code libraries and frameworks for quantitative analysis, data manipulation, and 
 
 Contributions are welcome! If you have a project, platform, or resource you'd like to add, please open a pull request.
 
-1.  Fork the repository.
-2.  Add your link to the appropriate category in `README.md`.
-3.  Keep the format consistent: `[Project Name](URL) - A brief, one-sentence description.`
-4.  Submit your pull request.
+1. Fork the repository.
+2. Add your link to the appropriate category in `README.md`.
+3. Keep the format consistent: `[Project Name](URL) - A brief, one-sentence description.`
+4. Submit your pull request.
