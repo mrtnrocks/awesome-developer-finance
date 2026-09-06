@@ -49,6 +49,7 @@ Open-source platforms and bots for building, backtesting, and deploying algorith
 
 Open-source platforms and terminals for financial data analysis, visualization, and investment research.
 
+* [Market Brief](https://github.com/beepboop2025/market-brief) - MIT-licensed browser and Python tools for source-linked funding, capital-market, and liquidity briefs with local snapshot comparisons.
 * [OpenBB](https://github.com/OpenBB-finance/OpenBB) - A leading open-source investment research platform that provides access to financial data from a wide variety of sources.
 * [FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - An open-source alternative to the Bloomberg Terminal, offering tools for real-time market data visualization and research.
 
