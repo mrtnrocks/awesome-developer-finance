@@ -37,10 +37,11 @@ Tools and platforms using AI, Large Language Models, and autonomous agents for f
 * [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) - An open-source foundation model for financial candlesticks (K-lines) and quantitative finance tasks.
 * [google-research/timesfm](https://github.com/google-research/timesfm) - A pretrained time-series foundation model developed by Google Research for zero-shot time-series forecasting and financial temporal data modeling.
 * [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) - An AI-era value investing research framework built for Claude Code and Codex that utilizes multi-agent parallel research based on the methodologies of four investment masters.
+* [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) - An open-source autonomous AI trading agent and terminal operating across prediction markets, futures, and multi-chain DeFi protocols.
 
-## Trading Platforms & Bots
+## Trading Platforms
 
-Open-source platforms and bots for building, backtesting, and deploying algorithmic trading strategies.
+Open-source platforms for building, backtesting, and deploying algorithmic trading strategies.
 
 * [freqtrade](https://github.com/freqtrade/freqtrade) - A free, open-source crypto trading bot written in Python. It supports all major exchanges and is controllable via Telegram or a web UI.
 * [NautilusTrader](https://nautilustrader.io/) - A high-performance, open-source platform for quantitative and algorithmic trading, built for speed and reliability.
