@@ -30,6 +30,7 @@ Tools and platforms using AI, Large Language Models, and autonomous agents for f
 * [AnandChowdhary/priced-in](https://github.com/AnandChowdhary/priced-in) - An autonomous AI stock trading agent that runs on GitHub Actions.
 * [wshobson/maverick-mcp](https://github.com/wshobson/maverick-mcp) - A personal stock analysis MCP server for professional-grade financial data analysis, designed to integrate with Claude Desktop.
 * [Capital Companion](https://capitalcompanion.ai/) - An AI-powered trading assistant platform for technical analysis, trend predictions, and market insights.
+* [Pinegen AI](https://www.pinegen.ai/) - A chat-based AI assistant that generates, fixes, and backtests Pine Script v6 strategies for TradingView, validating code against the compiler in real time.
 * [AI-Trader](https://github.com/HKUDS/AI-Trader) - AI-Trader enables five distinct AI models, each employing unique investment strategies, to compete autonomously in the same market and determine which can generate the highest profits in NASDAQ 100 trading.
 * [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - An AI-powered multi-agent finance workspace that turns natural language requests into executable trading strategies and research insights.
 * [AI-Hedge-Fund](https://github.com/virattt/ai-hedge-fund) - An AI-powered hedge fund team where multiple agents (Buffett, Graham, etc.) collaborate to make trading decisions.
