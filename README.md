@@ -53,6 +53,7 @@ Open-source platforms and terminals for financial data analysis, visualization, 
 
 * [OpenBB](https://github.com/OpenBB-finance/OpenBB) - A leading open-source investment research platform that provides access to financial data from a wide variety of sources.
 * [FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - An open-source alternative to the Bloomberg Terminal, offering tools for real-time market data visualization and research.
+* [OpenStock](https://github.com/Open-Dev-Society/OpenStock) - An open-source stock market platform for real-time price tracking, stock screening, interactive charts, and market insights.
 
 ## Portfolio & Business Management
 
