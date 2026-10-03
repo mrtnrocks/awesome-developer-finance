@@ -22,6 +22,8 @@ A curated list of awesome open-source projects, platforms, APIs, and resources f
 
 Tools and platforms using AI, Large Language Models, and autonomous agents for financial analysis, research, and trading.
 
+- [iPulse AI](https://ipulseai.com/) - Hosted Open Agentic Investment Research Platform with independent AI advisor reports, asset forecasts and inspectable evidence, risks and assumptions for market research.
+
 * [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - A multi-agent LLM framework for financial trading that simulates a real-world trading firm with specialized agents.
 * [The-Swarm-Corporation/AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge) - An autonomous agent and swarm-based framework for automated financial risk management, trading strategies, and portfolio hedging.  
 * [ValueCell-ai/valuecell](https://github.com/ValueCell-ai/valuecell) - A community-driven, multi-agent platform for financial applications, including deep research and auto-trading agents.
