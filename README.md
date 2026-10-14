@@ -82,6 +82,7 @@ APIs focused on providing programmable access to financial data for developers a
 Code libraries and frameworks for quantitative analysis, data manipulation, and strategy simulation.
 
 * [shashankvemuri/Finance](https://github.com/shashankvemuri/Finance) - A collection of 150+ Python programs for quantitative finance, including data gathering, analysis, and strategy simulation.
+* [OpenBacktesting](https://github.com/lucidcog/openbacktesting) - Python framework for single-asset historical backtesting with pandas statistics, technical indicators, and parameter optimization.
 
 ---
 
