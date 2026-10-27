@@ -81,6 +81,7 @@ APIs focused on providing programmable access to financial data for developers a
 
 Code libraries and frameworks for quantitative analysis, data manipulation, and strategy simulation.
 
+* [Alphanume Strategy Lab](https://github.com/alphanume-markets/Alphanume-Strategy-Lab) - Python research code for event-driven equity backtests, cross-sectional strategies, and risk-regime modeling; Alphanume API access is required.
 * [shashankvemuri/Finance](https://github.com/shashankvemuri/Finance) - A collection of 150+ Python programs for quantitative finance, including data gathering, analysis, and strategy simulation.
 
 ---
