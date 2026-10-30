@@ -32,7 +32,7 @@ Tools and platforms using AI, Large Language Models, and autonomous agents for f
 * [Capital Companion](https://capitalcompanion.ai/) - An AI-powered trading assistant platform for technical analysis, trend predictions, and market insights.
 * [AI-Trader](https://github.com/HKUDS/AI-Trader) - AI-Trader enables five distinct AI models, each employing unique investment strategies, to compete autonomously in the same market and determine which can generate the highest profits in NASDAQ 100 trading.
 * [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - An AI-powered multi-agent finance workspace that turns natural language requests into executable trading strategies and research insights.
-* [TradingAgents vs TradingAgents-CN vs Vibe-Trading](https://aiquantnav.com/en/compare/tradingagents-vs-tradingagents-cn-vs-vibe-trading) - Free side-by-side comparison of three open-source LLM multi-agent trading frameworks already listed above (maintenance, markets, localization).
+* [TradingAgents vs TradingAgents-CN vs Vibe-Trading](https://aiquantnav.com/en/compare/tradingagents-vs-tradingagents-cn-vs-vibe-trading) - Free side-by-side comparison of three LLM multi-agent trading frameworks (maintenance, markets, localization).
 * [AI-Hedge-Fund](https://github.com/virattt/ai-hedge-fund) - An AI-powered hedge fund team where multiple agents (Buffett, Graham, etc.) collaborate to make trading decisions.
 * [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - An open-source AI trading operating system that automates workflows with multi-agent orchestration and low-latency execution.
 * [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) - An open-source foundation model for financial candlesticks (K-lines) and quantitative finance tasks.
