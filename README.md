@@ -75,6 +75,7 @@ APIs focused on providing programmable access to financial data for developers a
 
 * [Adanos Market Sentiment](https://adanos.org/) - API-first stock sentiment data from Reddit, X / FinTwit, News, and Polymarket for developer tools, dashboards, and AI agents.
 * [Financial Datasets](https://www.financialdatasets.ai/) - A financial data API provider built specifically for AI agents and LLMs, offering statements, SEC filings, news, and more.
+* [fxapis](https://fxapis.com/) - A commercial hosted REST API for MetaTrader 5 (14-day trial) to connect and trade MT5 accounts, with MarketLabs research data, Python/TypeScript SDKs and a remote MCP server (`https://api.fxapis.com/mcp`).
 * [FXMacroData](https://fxmacrodata.com/) - Macroeconomic indicators, central bank policy rates, FX spot rates, CFTC COT positioning data, and economic release calendars for 18+ currencies via REST API and remote MCP server (`https://fxmacrodata.com/mcp`).
 
 ## Quantitative Libraries
