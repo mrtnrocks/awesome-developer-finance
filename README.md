@@ -14,6 +14,7 @@ A curated list of awesome open-source projects, platforms, APIs, and resources f
 - [Banking & Payments](#banking--payments)
 - [Data APIs](#data-apis)
 - [Quantitative Libraries](#quantitative-libraries)
+- [Skills](#skills)  
 - [Contributing](#contributing)
 
 ---
@@ -82,6 +83,12 @@ APIs focused on providing programmable access to financial data for developers a
 Code libraries and frameworks for quantitative analysis, data manipulation, and strategy simulation.
 
 * [shashankvemuri/Finance](https://github.com/shashankvemuri/Finance) - A collection of 150+ Python programs for quantitative finance, including data gathering, analysis, and strategy simulation.
+
+## Skills
+
+Various skills
+
+* [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)
 
 ---
 
