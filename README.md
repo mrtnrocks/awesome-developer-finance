@@ -75,6 +75,7 @@ APIs and platforms for managing bank accounts, processing payments, and moving m
 APIs focused on providing programmable access to financial data for developers and AI agents.
 
 * [Adanos Market Sentiment](https://adanos.org/) - API-first stock sentiment data from Reddit, X / FinTwit, News, and Polymarket for developer tools, dashboards, and AI agents.
+* [Congress Stock Trades API](https://apify.com/johnvc/us-congress-financial-disclosures-and-stock-trading-data) - Hosted Apify API for US Congress financial disclosures and stock trades, searchable by member, ticker, or date range and returned as JSON.
 * [Financial Datasets](https://www.financialdatasets.ai/) - A financial data API provider built specifically for AI agents and LLMs, offering statements, SEC filings, news, and more.
 * [FXMacroData](https://fxmacrodata.com/) - Macroeconomic indicators, central bank policy rates, FX spot rates, CFTC COT positioning data, and economic release calendars for 18+ currencies via REST API and remote MCP server (`https://fxmacrodata.com/mcp`).
 
