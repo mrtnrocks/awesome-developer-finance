@@ -83,6 +83,7 @@ APIs focused on providing programmable access to financial data for developers a
 Code libraries and frameworks for quantitative analysis, data manipulation, and strategy simulation.
 
 * [shashankvemuri/Finance](https://github.com/shashankvemuri/Finance) - A collection of 150+ Python programs for quantitative finance, including data gathering, analysis, and strategy simulation.
+* [tracemodel](https://github.com/datayoga-io/tracemodel) - A Python library for financial models in which each number keeps its source, formulas are traced, and checks find totals that do not tie.
 
 ## Skills
 
