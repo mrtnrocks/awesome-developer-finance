@@ -39,6 +39,7 @@ Tools and platforms using AI, Large Language Models, and autonomous agents for f
 * [google-research/timesfm](https://github.com/google-research/timesfm) - A pretrained time-series foundation model developed by Google Research for zero-shot time-series forecasting and financial temporal data modeling.
 * [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) - An AI-era value investing research framework built for Claude Code and Codex that utilizes multi-agent parallel research based on the methodologies of four investment masters.
 * [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) - An open-source autonomous AI trading agent and terminal operating across prediction markets, futures, and multi-chain DeFi protocols.
+* [DDScore](https://www.ddscore.ai/) - An AI-assisted first-pass due diligence tool that cross-checks private company documents against public sources and reports findings with evidence and follow-up questions.
 
 ## Trading Platforms
 
