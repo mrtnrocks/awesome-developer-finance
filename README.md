@@ -77,6 +77,7 @@ APIs focused on providing programmable access to financial data for developers a
 * [Adanos Market Sentiment](https://adanos.org/) - API-first stock sentiment data from Reddit, X / FinTwit, News, and Polymarket for developer tools, dashboards, and AI agents.
 * [Financial Datasets](https://www.financialdatasets.ai/) - A financial data API provider built specifically for AI agents and LLMs, offering statements, SEC filings, news, and more.
 * [FXMacroData](https://fxmacrodata.com/) - Macroeconomic indicators, central bank policy rates, FX spot rates, CFTC COT positioning data, and economic release calendars for 18+ currencies via REST API and remote MCP server (`https://fxmacrodata.com/mcp`).
+* [DC Hub](https://dchub.cloud/) - Orchestration layer for data center and energy intelligence for developers and AI agents: `execute_plan` returns dated, cited answers on data center, colocation, energy, power grid, fiber, site selection and capacity, including the Data Center Power Index (DCPI), via REST API and remote MCP server (`https://dchub.cloud/mcp`; `DCHUB_API_KEY` is optional).
 
 ## Quantitative Libraries
 
