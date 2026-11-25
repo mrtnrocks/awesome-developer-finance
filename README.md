@@ -76,6 +76,7 @@ APIs focused on providing programmable access to financial data for developers a
 
 * [Adanos Market Sentiment](https://adanos.org/) - API-first stock sentiment data from Reddit, X / FinTwit, News, and Polymarket for developer tools, dashboards, and AI agents.
 * [Financial Datasets](https://www.financialdatasets.ai/) - A financial data API provider built specifically for AI agents and LLMs, offering statements, SEC filings, news, and more.
+* [FlowFeed](https://flowfeed.cc) - Real-time macro, forex and crypto news, economic calendar and central bank releases for AI agents and LLMs via a hosted remote MCP server (`https://mcp.flowfeed.cc/mcp`).
 * [FXMacroData](https://fxmacrodata.com/) - Macroeconomic indicators, central bank policy rates, FX spot rates, CFTC COT positioning data, and economic release calendars for 18+ currencies via REST API and remote MCP server (`https://fxmacrodata.com/mcp`).
 
 ## Quantitative Libraries
